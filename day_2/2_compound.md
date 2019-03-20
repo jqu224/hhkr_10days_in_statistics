@@ -10,7 +10,7 @@ One ball is drawn from each of the 3 urns. What is the probability that, 3 of th
 <h2>
 
 ```diff
-- red
+- white 1213
 + green
 ! orange
 # gray
