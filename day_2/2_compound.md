@@ -7,5 +7,5 @@ Urn z contains 4 red balls and 4 black balls.
 
 One ball is drawn from each of the 3 urns. What is the probability that, 3 of the  balls drawn, 2 are red and 1 is black?
 
-
+<span style="color:blue">some *This is Blue italic.* text</span>
 17 / 42
