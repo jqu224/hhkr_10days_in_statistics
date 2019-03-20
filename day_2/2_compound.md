@@ -9,12 +9,8 @@ One ball is drawn from each of the 3 urns. What is the probability that, 3 of th
 
 <h2>
 
-```diff
-- white 1213
-+ green
-! orange
-# gray
+```diff 
+# gray  17 / 42
 ```
 
 </h2>
-17 / 42
