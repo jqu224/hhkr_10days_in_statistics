@@ -4,7 +4,7 @@ If there is 1 child born per birth,
 what proportion of Russian families with exactly 6 children will have at least 3 boys?
 
 Write a program to compute the answer using the above parameters. 
-Then print your result, rounded to a scale of  decimal places (i.e.,  format).
+Then print your result, rounded to a scale of 3 decimal places (i.e.,  format).
 
 
 # Enter your code here. Read input from STDIN. Print output to STDOUT
